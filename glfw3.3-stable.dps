@@ -1,0 +1,4 @@
+installation_mode
+git clone --recursive https://github.com/glfw/glfw.git
+main_include
+glfw/include
